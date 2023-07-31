@@ -1,0 +1,27 @@
+<head>
+<head>
+<style>
+h1{
+color:blue;
+}
+</style>
+</head>
+<body>
+<img src="b.jpg" width="500" height="100">
+<h1>Product List</h1>
+<ul>
+<li>Electronics</li>
+<img src="img1.jpeg" width=100 height=50>
+<img src="b.jpg" width=100 height=50>
+<img src="b.jpg" width=100 height=50>
+
+<li>Food</li>
+<img src="b.jpg" width=100 height=50>
+<img src="b.jpg" width=100 height=50>
+<img src="b.jpg" width=100 height=50>
+<li>Clothes</li>
+<img src="b.jpg" width=100 height=50>
+<img src="b.jpg" width=100 height=50>
+<img src="b.jpg" width=100 height=50>
+</body>
+</html>
